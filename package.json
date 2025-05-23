@@ -1,0 +1,15 @@
+{
+  "name": "sistema-encartes",
+  "version": "1.0.0",
+  "description": "API para geração de encartes",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.0.4",
+    "cors": "^2.8.5",
+    "concurrently": "^8.0.1"
+  }
+}
